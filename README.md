@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SageDW 💛💚BR
 - 👀 I’m interested in acquiring knowledge and developing web apps.
 - 🌱 I’m currently learning Web Development (CSS, JavaScript, Node.js, React...)
-- 💞️ I’m looking to collaborate on Open Source projects that will add to my skillset.
+- 💞️ I’m looking for my first experience in my coding career.
 - 📫 How to reach me: sagewhite333@gmail.com
 
 <!---
